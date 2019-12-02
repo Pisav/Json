@@ -6,7 +6,9 @@
       "uitgave": "mei 2009",
       "ean": "9789044312232",
       "paginas": 104,
-      "taal": "Nederlands"
+      "taal": "Nederlands",
+      "prijs": "€15,00",
+      "aantal": 1
       
    },
    {
@@ -16,7 +18,9 @@
       "uitgave": "juli 2010",
       "ean": "9789044316025",
       "paginas": 255,
-      "taal": "Nederlands"
+      "taal": "Nederlands",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Torak en Wold, verstoten",
@@ -25,7 +29,9 @@
       "uitgave": "september 2013",
       "ean": "9789063693275",
       "paginas": 176,
-      "taal": "Nederlands"
+      "taal": "Nederlands",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Huis vol leugens",
@@ -34,7 +40,9 @@
       "uitgave": "juli 2019",
       "ean": "9789026343315",
       "paginas": 400,
-      "taal": "Nederlands"
+      "taal": "Nederlands",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "frenkie",
@@ -43,7 +51,9 @@
       "uitgave": "juni 2016",
       "paginas": 300,
       "taal": "Nederlands",
-      "ean": "9789400404496 "
+      "ean": "9789400404496 ",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Dog Man",
@@ -52,7 +62,9 @@
       "uitgave": "juni 2018",
       "paginas": 231,
       "taal": "Nederlands",
-      "ean": "9789492899019"
+      "ean": "9789492899019",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "De meeste mensen deugen",
@@ -61,7 +73,9 @@
       "uitgave": "januari 2019",
       "paginas": 246,
       "taal": "Nederlands",
-      "ean": "9789082942187"
+      "ean": "9789082942187",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "VEG",
@@ -70,7 +84,9 @@
       "uitgave": "augustus 2019",
       "paginas": 312,
       "taal": "Nederlands",
-      "ean": "9789021573397"
+      "ean": "9789021573397",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Alchemist",
@@ -79,7 +95,9 @@
       "uitgave": "augustus 2018",
       "paginas": 304,
       "taal": "Nederlands",
-      "ean": "9780008144227"
+      "ean": "9780008144227",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Waagstukken",
@@ -97,7 +115,8 @@
       "uitgave": "mei 2019",
       "paginas": 597,
       "taal": "Nederlands",
-      "ean": "9789041422903"
+      "ean": "9789041422903",
+      "prijs": "€15,00"
    },
    {
       "titel": "Houden van dingen die niet perfect zijn",
@@ -106,7 +125,9 @@
       "uitgave": "januari 2019",
       "paginas": 272,
       "taal": "Nederlands",
-      "ean": "9789022583722"
+      "ean": "9789022583722",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "De Zeven Zussen",
@@ -115,7 +136,9 @@
       "uitgave": "juni 2018",
       "paginas": 592,
       "taal": "Nederlands",
-      "ean": "9789401609371"
+      "ean": "9789401609371",
+      "prijs": "€15,00",
+      "aantal": 1
    },
    {
       "titel": "Hands-On Full-Stack Web Development with ASP.NET Core",
@@ -124,6 +147,8 @@
       "uitgave": "oktober 2018",
       "paginas": 478,
       "taal": "Engels",
-      "ean": "9781788622882"
+      "ean": "9781788622882",
+      "prijs": "€15,00",
+      "aantal": 1
    }
 ]
