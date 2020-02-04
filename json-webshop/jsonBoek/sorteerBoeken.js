@@ -86,6 +86,10 @@ const keerTekstOm = (string) => {
     return string;
 };
 
+const confirm = (alert) => {
+    alert('Hallo');
+}
+
 let winkelwagenObj = {
     items: [],
     haalItemsOp: function () {
@@ -144,6 +148,8 @@ let sorteerBoekObj = {
             let sectie = document.createElement("section");
             sectie.className = "boek";
 
+         
+
             let main = document.createElement("main");
             main.className = "boek__main";
 
@@ -169,13 +175,19 @@ let sorteerBoekObj = {
             prijs.className = "boek__prijs";
             prijs.textContent = boek.prijs.toLocaleString('nl-NL', {currency: 'EUR', style: 'currency'});
 
+
+
             let knop = document.createElement("button");
+            let confirm = document.createElement('p');
+            confirm.className = "bedankt";
             knop.className = "boek__knop";
             knop.innerHTML = "Bestel";
             knop.addEventListener('click', () => {
                 winkelwagenObj.toevoegen(boek);
                 knop.className = "besteld";
                 knop.innerHTML = "Toegevoegd!";
+                alert("Als u op 'OK' klikt word het item toegevoegd aan uw winkelmandje");
+                //confirm.innerHTML = "Bedankt uw bestelling is in uw winkelmandje geplaatst";
 
                 setTimeout(function() {
                     knop.className = "boek__knop";
